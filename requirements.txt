@@ -1,0 +1,11 @@
+# Core dependencies
+semhash>=0.3.0
+telethon>=1.40.0
+python-dotenv>=1.0.0
+
+# Alternative/Advanced options (uncomment if needed)
+# text-dedup>=0.1.0  # Alternative deduplication library
+# sentence-transformers>=2.2.0  # For custom embedding models
+# qdrant-client>=1.7.0  # For vector database persistence
+# faiss-cpu>=1.7.4  # Alternative to Qdrant
+# openai>=1.0.0  # For LLM verification (optional)
